@@ -41,6 +41,7 @@ msbuild.wrn
 
 # Terraform
 **/.terraform/*
+.terraform.*
 *.tfstate
 *.tfstate.*
 crash.log
